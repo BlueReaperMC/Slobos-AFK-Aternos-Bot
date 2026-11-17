@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BlueReaperEvents.aternos.me",
-    "port": 25981,
+    "ip": "UnofficialOmegle.aternos.me",
+    "port": 28887,
     "version": "",
     "try-creative": false
   },
